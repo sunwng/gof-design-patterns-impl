@@ -1,4 +1,0 @@
-sunwng@example.com = Sunwoong Na
-gyuwon@example.com = Gyuwon Kim
-hyunwook@example.com = Hyunwook Lee
-HyYong@example.com = Hoyoung Jo
